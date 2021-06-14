@@ -1,0 +1,25 @@
+  [{
+        "question":"where is red fort ??",
+        "choice1":"agra",
+        "choice2":"new delhi",
+        "choice3":"lucknow",
+        "choice4":"varansi",
+        "answer": 2
+    },
+    {
+        "question":"where is capital of russia ??",
+        "choice1":"moscow",
+        "choice2":"new york",
+        "choice3":"quoto",
+        "choice4":"islamabad",
+        "answer": 1
+    },
+    {
+        "question":"who is pm of india ??",
+        "choice1":"rahul",
+        "choice2":"mamta",
+        "choice3":"kejriwal",
+        "choice4":"modi",
+        "answer":4
+    }
+]

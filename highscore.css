@@ -1,0 +1,26 @@
+#highscorelist {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 1.5rem;
+}
+
+.high-score {
+  font-size: 20px;
+  margin-bottom: 0.5rem;
+
+}
+
+.high-score:hover {
+  transform: scale(1.125);
+}
+
+h3 {
+  font-family: Poppins;
+  font-size: 40px;
+  color: #259821;
+}
+
+.logo {
+  margin-top: -50px;
+  height: 50px;
+}
